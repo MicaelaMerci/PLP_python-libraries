@@ -1,0 +1,6 @@
+Name,Grade,Marks,Age,Class,Term
+Alice,A,85,20,Math,Spring
+Bob,B,72,21,Physics,Fall
+Charlie,C,65,22,Chemistry,Spring
+David,A,90,23,Math,Fall
+Eva,B,78,20,Math,Spring
